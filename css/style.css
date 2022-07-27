@@ -1,0 +1,21 @@
+body {
+  text-align : center;font-style:italic;background-color:#b0c4de;
+}
+.main img {
+  width : 15%;
+  vertical-align: middle;
+}
+.navi {
+  text-align: center;
+}
+button {
+  margin: 10px auto;
+  font-size: 24px;
+}
+.title {
+  font-size: xx-large;
+}
+.thumbnails .selected {
+  opacity: 1.0;
+}
+
